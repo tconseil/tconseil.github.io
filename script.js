@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const profileWrapper = document.querySelector(".profile-wrapper");
 
     // Récupère la position centrale de l'image
-    const centerX = profileWrapper.offsetLeft + profileWrapper.offsetWidth -800;// 🟢 Placé à droite
+    const centerX = profileWrapper.offsetLeft + profileWrapper.offsetWidth -500;// 🟢 Placé à droite
     const centerY = profileWrapper.offsetTop + profileWrapper.offsetHeight / 2 -160 ;
     const radius = 150; 
 
