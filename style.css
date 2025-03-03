@@ -133,6 +133,7 @@ h1{
 #section2 {
     background-color: #2c3e50; /* Couleur bleu foncé */
     height: 150vh;
+    display:block;
 }
 #subsection1 {
     background-color: #2c3e50; /* Couleur bleu foncé */
@@ -165,7 +166,7 @@ h1{
     text-align: center;
     padding: 20px;
     display: block;
-    height: 50vh;
+    height: 70vh;
 }
 #section6 {
     background-color: #2c3e50; /* Couleur bleu foncé */
